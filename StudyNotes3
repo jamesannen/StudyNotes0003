@@ -1444,7 +1444,8 @@ DoS	ZIP, JPG, PNG
 
 
 
-
+Command Injection
+https://github.com/payloadbox/command-injection-payload-list
 Injection Operators
 Injection Operator	Injection Character	URL-Encoded Character	Executed Command
 Semicolon	;	%3b	Both
