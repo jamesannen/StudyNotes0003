@@ -1753,8 +1753,3 @@ adb root	Restart ADB as root.
 adb install myapp.apk	Install an app on the device.
 adb push ./myapp.apk /sdcard/Download/	Push files to the device.
 adb pull /sdcard/Download/myapp.apk .	Pull app from the device to the local host.
-
-
-
-
-
